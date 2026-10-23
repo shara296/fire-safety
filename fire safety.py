@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 23 10:34:51 2026
-
 @author: aksha
 """
 
